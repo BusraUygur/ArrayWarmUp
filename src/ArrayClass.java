@@ -18,6 +18,8 @@ public class ArrayClass {
 
 		String s = Arrays.toString(str);
 		System.out.println(s.charAt(0));
+		
+		System.out.println("It is in GitHup now!!!!!");
 	}
 
 }
